@@ -1,4 +1,4 @@
-# 🛒 TovekShop — Dynamic Economy & GUI Shop (Showcase)
+# 🛒 TovekShop: Dynamic Economy & GUI Shop (Showcase)
 
 <div align="center">
 
